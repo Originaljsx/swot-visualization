@@ -2,13 +2,15 @@
 
 Jupyter notebooks for visualizing SWOT (Surface Water and Ocean Topography) satellite data.
 
+ ![SWOT L4 Global Mosaic](swot_l4_global_mosaic_20240601.png)
+
 ## Notebooks
 
 ### L4 Product (Gridded)
-- **visualize_june1_2024_final.ipynb** - Visualizes SWOT L4 gridded data https://doi.org/10.24400/527896/a01-2025.001
+- **swot_l4_global_visualization_june1_2024.ipynb** - Visualizes SWOT L4 global gridded data for June 1, 2024
 
 ### L3 Product (Swath)
-- **swot_l3_complete_global_mosaic.ipynb** - Visualizes all passes from one cycle https://doi.org/10.24400/527896/A01-2023.017
+- **swot_l3_complete_global_mosaic.ipynb** - Visualizes SWOT L3 Basic, all passes from one cycle (cycle 16, May 29-June 18, 2024)
 
 
 ## Requirements
